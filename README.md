@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+First Install the dependent package:
+### `npm install --save tableau-api`
 In the project directory, you can run:
 
 ### `npm start`
