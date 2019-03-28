@@ -18,7 +18,7 @@ Then Install the packages to initialize the packages.json
 
 If there are some packages which are installed with errors or warnings then you can run the following scripts:
 
-### `npm audit fix'
+### `npm audit fix`
 
 In the project directory, you can run:
 
