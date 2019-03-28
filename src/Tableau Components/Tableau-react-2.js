@@ -1,9 +1,9 @@
 
 import React, { Component } from 'react';  
-import tableau from 'tableau-api';  
+//import tableau from 'tableau-api';  
   
   
-class Test extends Component {  
+class Public_Link extends Component {  
   componentDidMount() {  
     this.initViz()  
   }  
@@ -18,11 +18,13 @@ class Test extends Component {
   
   render() {  
     return (  
+      <div>
       <div ref={(div) => { this.vizContainer = div }}>  
-      </div>  
+      </div> 
+      </div> 
     )  
   }  
 }  
   
   
-export default Test;  
+export default Public_Link;  

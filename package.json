@@ -4,8 +4,10 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.5",
+    "react-cool-tabs": "^1.1.6",
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8",
+    "react-tabs": "^3.0.0",
     "tableau-api": "^2.2.2"
   },
   "scripts": {
